@@ -213,16 +213,12 @@ This project is deployed on **Hostinger**
 
 ### Deploy your own
 
-[![Deploy with Hostinger](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/codeflextech/codeflextech-website)
+[![Deploy with Hostinger](https://hostinger.com/button)](https://hostinger.com/new/clone?repository-url=https://github.com/faisalshah4004/codeflextech)
 
 1. Push to GitHub
 2. Import repo at [Hostinger](https://hostinger.com)
-3. Add environment variables in Vercel dashboard
+3. Add environment variables in Hostinger dashboard
 4. Deploy — done
-
-### Custom domain
-
-In Vercel dashboard → Project → Settings → Domains → Add `codeflextech.com`
 
 ---
 
